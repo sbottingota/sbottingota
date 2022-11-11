@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sbottingota
+- 👀 I’m interested in python and java.
+- 🌱 I’m currently learning about neural networks and matplotlib.
+- 💞️ I’m not looking to collaborate right now.
