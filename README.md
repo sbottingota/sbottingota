@@ -4,7 +4,7 @@ Programmer for FTC Team 19259 Gear Subzero.
 ![sbottingota's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbottingota&show_icons=true&theme=default)
 
 Project euler:  
-![Projet euler](https://projecteuler.net/profile/sbottingota.png)
+[![Projet euler](https://projecteuler.net/profile/sbottingota.png)](https://projecteuler.net)
 
 Stack overflow (inactive):  
 <a href="https://stackoverflow.com/users/20078696/sbottingota"><img src="https://stackoverflow.com/users/flair/20078696.png" width="208" height="58" alt="profile for sbottingota at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for sbottingota at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>  
